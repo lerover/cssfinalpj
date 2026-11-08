@@ -24,3 +24,5 @@ if($age === 0){
         echo "Adult";
     }
 }
+
+<head></head>
